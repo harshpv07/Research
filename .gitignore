@@ -1,2 +1,6 @@
 .env 
 .venv 
+.KG/user4.jsonl
+.perspectives/perspectives/user4.jsonl
+.perspectives/perspectives/output.csv 
+.perspectives/perspectives/start-end-analysis.csv
