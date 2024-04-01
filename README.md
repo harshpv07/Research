@@ -9,6 +9,6 @@
 
 
 
-###Things to consider. 
+### Things to consider. 
 - The dataset and cleaned interpretations of the same are not tracked on this repo.
 - API keys for both Neo4J and OpenAI can be added in a .env file. 
